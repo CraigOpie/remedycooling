@@ -1,2 +1,2 @@
-# remedycooling.com
+# remedycooling
 Remedy Cooling Official Website
