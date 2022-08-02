@@ -1,0 +1,25 @@
+{
+  "defaultAccounts": [
+    {
+      "email": "craig@pulseutility.com", "password": "changeme", "role": "admin"
+    },
+    {
+      "email": "anthony@pulseutility.com", "password": "changeme"
+    }
+  ],
+
+  "defaultUsers": [
+    {
+      "email": "craig@pulseutility.com", "firstName": "Craig", "lastName": "Opie",
+      "company": "Pulse Utility, LLC",
+      "image": "/images/craig.jpg", "mobileNumber": "8082389966",
+      "carrier": "T-Mobile", "isBanned": false
+    },
+    {
+      "email": "anthony@pulseutility.com", "firstName": "Anthony", "lastName": "Lopez",
+      "company": "Pulse Utility, LLC",
+      "image": "/images/anthony.jpg", "mobileNumber": "5043432763",
+      "carrier": "T-Mobile", "isBanned": true
+    }
+  ]
+}
